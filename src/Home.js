@@ -18,30 +18,30 @@ function Home() {
             title="The lean startup"
             price={29.99}
             image="https://www.investopedia.com/thmb/eRKJOys7Ff9GRkgg3kW2uZXbNDo=/900x600/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527398042-0aa90c3c871d4b98883700135c9013de.jpg"
-            rating={5}
+            rating={4}
           />
           <Product
             id="3232311"
             title="Lenovo Chromebook S330 Laptop, 14-Inch FHD (1920 x 1080) Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64GB eMMC, Chrome OS, 81JW0000US, Business Black"
             price={237.99}
             image="https://images-na.ssl-images-amazon.com/images/I/61ViOMIUhmL._AC_SL1500_.jpg"
-            rating={5}
+            rating={4}
           />
         </div>
 
         <div className="home__row">
           <Product
             id="3232212"
-            title="Fact check"
-            price={229.99}
-            image="https://miro.medium.com/max/1400/1*Oo1TOrs6RA1gk61cba_9ng.jpeg"
+            title="PlayStation5"
+            price={359.99}
+            image="https://m.media-amazon.com/images/I/619BkvKW35L._AC_UY218_.jpg"
             rating={5}
           />{" "}
           <Product
             id="3232162"
-            title="Fact check"
-            price={229.99}
-            image="https://miro.medium.com/max/1400/1*Oo1TOrs6RA1gk61cba_9ng.jpeg"
+            title="Playstation DualSense Wireless Controller"
+            price={89.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/612bjwBuobS._AC_UL160_SR160,160_.jpg"
             rating={5}
           />{" "}
           <Product
