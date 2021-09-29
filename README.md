@@ -1,5 +1,5 @@
 Deploy available here - https://fir-fd3ba.web.app/checkout
-Main Page
+/n Main Page
 ![image](https://user-images.githubusercontent.com/32223929/135354586-2142a18a-1d51-4ed0-a3f9-a43b32b679ca.png)
 Sign In \ Sign Up page
 ![image](https://user-images.githubusercontent.com/32223929/135354699-4eb9f11a-b788-470b-b21d-8beba32486b2.png)
